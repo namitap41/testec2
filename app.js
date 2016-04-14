@@ -6,6 +6,6 @@ http.createServer(function (request, response) {
  
    response.writeHead(200, {'Content-Type': 'text/plain'});
     
-   response.end('amitpttjtttgt8asbnm,t9tl't6gghj33fghj3as93jkttttt99t');
+   response.end('amitpttjtttgt8astt99t');
    
 }).listen(3000);
